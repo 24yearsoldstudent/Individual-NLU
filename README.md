@@ -9,5 +9,3 @@ We further extended the dataset based on the work of Aldayel et al. Since some u
 
 ### Topic-based Sentiment analysis
 The original dataset is derived from [SemEval-2016 Task 4: Sentiment Analysis in Twitter](https://aclanthology.org/S16-1003/](https://arxiv.org/abs/1912.01973). We do not collect UserIDs, so we only keep the original tweet IDs.
-
-## Code
